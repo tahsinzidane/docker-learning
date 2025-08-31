@@ -1,1 +1,1 @@
-# docker-learning
+docker-compose up --build
